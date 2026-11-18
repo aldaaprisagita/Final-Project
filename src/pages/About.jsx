@@ -22,7 +22,7 @@ export default function About() {
           </div>
 
           <article className="about-content">
-            <p className="eyebrow">HELLO, THERE!</p>
+            <p className="eyebrow">HELLO!</p>
             <h2>Halo, saya Alda! 👋</h2>
 
             <p>
