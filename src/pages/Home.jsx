@@ -35,8 +35,9 @@ export default function Home() {
         </div>
         <div className="hero-visual">
           <div className="portrait-frame">
-            <img src="public/images/aldadwi.jpg" alt="Foto profil contoh" loading="lazy" />
+            <img src="/images/aldadwi.jpg" alt="Alda Dwi Aprisagita" loading="lazy" />
           </div>
+
           <div className="floating-note">
             <i className="bi bi-lightbulb" />
             <span>
@@ -45,6 +46,7 @@ export default function Home() {
               <strong>always creating.</strong>
             </span>
           </div>
+
           <div className="visual-orbit orbit-one" />
           <div className="visual-orbit orbit-two" />
         </div>
